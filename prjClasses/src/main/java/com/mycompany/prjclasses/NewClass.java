@@ -17,6 +17,8 @@ public class NewClass {
         
         System.out.println("Hello from 2nd class");
         
+        
+        
     }
     
 }

@@ -18,5 +18,7 @@ nc.helloclass();// have 2 use vb name 2 comunicate between classes
 
 System.out.println(nc.strSecondClassVar); // outputveriable from 2nd class
 
+
+
     }
 }
